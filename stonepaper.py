@@ -54,6 +54,7 @@ while True:
 		continue
 	else:
 		exit()
+		#break
 
 
 				
